@@ -1,16 +1,18 @@
-### Hi there 👋
+<img  src="https://images.pexels.com/photos/1102913/pexels-photo-1102913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+ 
+### Bem vindo! 👋 <br>
 
-<!--
-**hailtonnoc/hailtonnoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_"Buscar excelência nas próprias virtudes é o dever de todo ser"._
+ 
+  Estou trabalhando nos projetos abaixo e principalmente naqueles relacionados aos estudos. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repositorio - O Registro e Aplicação de todo conhecimento](https://github.com/hailtonnoc/Caminho_da_Programacao)<br>
 
-Here are some ideas to get you started:
+ 
+:seedling: Estou aprendendo Python, JavaScript, SQL além de HTML5 e CSS3.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] ⚡ Projeto Repositorio
+- [ ] 🔭 Projeto comercial em Front-end Site de Contabilidade
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](hailton.noc@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Portfolio](https:https://hailtonoliveira.com.br/)
