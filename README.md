@@ -10,8 +10,8 @@ _"Buscar excelência nas próprias virtudes é o dever de todo ser"._
  
 :seedling: Estou aprendendo Python, JavaScript, SQL além de HTML5 e CSS3.<br>
 
-- [ ] ⚡ Projeto Repositorio
-- [ ] 🔭 Projeto comercial em Front-end Site de Contabilidade
+- [ ] ⚡ Projeto Repositorio (web)
+- [ ] 🔭 Projeto comercial em Front-end Site de Contabilidade (mobile)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](hailton.noc@gmail.com)
