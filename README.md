@@ -1,6 +1,6 @@
 <img  src="https://images.pexels.com/photos/1102913/pexels-photo-1102913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
  
-### Bem vindo! 👋 <br>
+### Bem vindo! 👋🏽 <br>
 
 _"Buscar excelência nas próprias virtudes é o dever de todo ser"._
  
