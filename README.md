@@ -13,6 +13,4 @@ _"Buscar excelência nas próprias virtudes é o dever de todo ser"._
 - [ ] ⚡ Projeto Repositorio (web)
 - [ ] 🔭 Projeto comercial em Front-end Site de Contabilidade (mobile)
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](hailton.noc@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Portfolio](https:https://hailtonoliveira.com.br/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Portfolio](https://hailtonoliveira.com.br/)
